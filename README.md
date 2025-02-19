@@ -1,4 +1,4 @@
-# Infrastats
+# InfraStats
 Tracking networking outage be super hard task for most of DevOps for Networking.
 I'm service provider and end-user myself but still it find it difficult where root of cause exist while supporting client.
 Downdetector be not enough for those task so I collect list of major core networking provider so I can track what's going on over upstream provider and peering partner by now.
