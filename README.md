@@ -4,7 +4,7 @@ I'm service provider and end-user myself but still it find it difficult where ro
 Downdetector be not enough for those task so I collect list of major core networking provider so I can track what's going on over upstream provider and peering partner by now.
 
 ## Usage
- A. Join off [discord](URL to Put)
+ A. Join off [discord](URL to Put)  
  B. Use URL on discord RSS Bot like [MonitoRSS](https://monitorss.xyz/)  
  C. Self-host RSS workflow/bot yourself
 
