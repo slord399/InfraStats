@@ -9,21 +9,73 @@ Downdetector be not enough for those task so I collect list of major core networ
  C. Self-host RSS workflow/bot yourself
 
 ## Feed Provider
-=News (General)=
-- [United Kingdom of Great Britain and Northern Ireland (UK)](#united-kingdom-of-great-britain-and-northern-ireland-uk)
-- [United States of America (USA)](#united-states-of-america-usa)
-- [Japan (JP)](#japan-jp)
+- [Media and Press](#media)
+- [Data Centre](#data-centre-and-hosting)
+- [Transit and ISP](#transit-and-isp)
+- [Service as a Service (SaaS](#saas)
 
-### United Kingdom of Great Britain and Northern Ireland (UK)
-| Country  | Provider  | Category | Feed URLs |
-| :-------------: | :-------------: | :-------------: | :-------------: |
-| UK | [The Times](https://www.thetimes.com/)  | UK Politics  | https://openrss.org/www.thetimes.com/uk |
-| 〃 | 〃 | UK Healthcare  | https://openrss.org/www.thetimes.com/uk/healthcare |
-| 〃 | 〃 | UK Education  | https://openrss.org/www.thetimes.com/uk/education |
-| 〃 | 〃 | UK Crime  | https://openrss.org/www.thetimes.com/uk/crime |
-| 〃 | 〃 | UK Defence  | https://openrss.org/www.thetimes.com/uk/defence |
-| 〃 | 〃 | UK Scotland  | https://openrss.org/www.thetimes.com/uk/scotland |
-| 〃 | 〃 | UK Enviroment  | https://openrss.org/www.thetimes.com/uk/environment |
-| 〃 | 〃 | UK Obituaries  | https://openrss.org/www.thetimes.com/uk/obituaries |
-| 〃 | 〃 | UK Royal Family  | https://openrss.org/www.thetimes.com/uk/royal-family |
-| 〃 | 〃 | UK Science  | https://openrss.org/www.thetimes.com/uk/science |
+### Media
+| Provider | Feed URLs |
+| :-------------: | :-------------: |
+| ISPreview | https://www.ispreview.co.uk/news/rss.xml |
+| SubTel Forum | https://subtelforum.com/rss |
+|  |  |
+|  |  |
+|  |  |
+
+### Data Centre and Hosting
+| Provider | Feed URLs |
+| :-------------: | :-------------: |
+| [Digital Ocean](https://digitalocean.com/) | https://status.digitalocean.com/history.atom |
+| Hetzner Cloud | https://status.hetzner.com/en.atom |
+| [Microsoft Azure](https://azure.microsoft/) | https://rssfeed.azure.status.microsoft/en-gb/status/feed/ |
+| [Google Cloud Platform](https://cloud.google.com/) | https://status.cloud.google.com/en/feed.atom |
+|  |  |
+| [Equinix](https://equinix.com/) | https://status.equinix.com/history.atom |
+| [Akamai](https://www.akamai.com/) | https://www.akamaistatus.com/history.atom |
+| [Linode](https://linode.com/) | https://status.linode.com/history.atom |
+| [Sparked Host](https://sparkedhost.com/) | https://status.sparkedhost.com/history.rss |
+
+
+### Transit and ISP
+| Provider | Feed URLs |
+| :-------------: | :-------------: |
+| [RIPE NCC](https://ripe.net/) | https://status.ripe.net/history.atom |
+| [Cloufflare](https://www.cloudflare.com/) | https://www.cloudflarestatus.com/feed |
+| [Global Secure Layer](https://globalsecurelayer.com/) | https://www.gslstatus.com/history.atom |
+| [Sucui Monitoring](https://sucuri.net/) | https://status.sucuri.net/history.atom |
+| [NTT Smart Data Platform (JP)](https://sdpf.ntt.com/) | https://status.sdpf.ntt.com/rss/ja/ |
+| [NTT Smart Data Platform (EN)](https://sdpf.ntt.com/) | https://status.sdpf.ntt.com/rss/en/ |
+| [OCN (Flet's)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/hikari-w-flets/maintenance/list/rss |
+| [OCN (Hikari)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/hikari/maintenance/list/rss |
+| [OCN (Direct)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/ocn-internet/maintenance/list/rss |
+| [au one net](https://www.au.com/) | https://www.notice.kddi.com/news/mainte/content/info/k/auonenet.xml |
+| [au Hikari](https://www.au.com/) | https://www.notice.kddi.com/news/mainte/content/info/k/hikarione.xml |
+|  |  |
+|  |  |
+
+### SaaS
+| Provider | Feed URLs |
+| :-------------: | :-------------: |
+| [IFTTT](https://ifttt.com/) | https://status.ifttt.com/feed |
+| [GitHub](https://www.github.com/) | https://www.githubstatus.com/history.atom |
+| [Amazon Web Service](https://aws.amazon.com/) | https://status.aws.amazon.com/rss/all.rss |
+| [ReadMe](https://readme.com/) | https://www.readmestatus.com/history.atom |
+| [Core-Backbone](https://core-backbone.com/) | https://status.core-backbone.com/rss.php?mode=all |
+| [Unity Gaming Service](https://unity.com/) | https://status.unity.com/history.atom |
+| [Epic Gaming Service](https://epicgames.com/) | https://status.epicgames.com/history.atom |
+| [discord](https://discord.com/) | https://discordstatus.com/history.atom |
+| [OpenAI](https://openai.com/) | https://status.openai.com/history.atom |
+| [Patreon](https://patreon.com/) | https://status.patreon.com/history.atom |
+| Let's Encrypt | https://letsencrypt.status.io/pages/55957a99e800baa4470002da/rss |
+| [Redis](https://redis.com/) | https://status.redis.com/history.atom |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+### Other
+| Provider | Feed URLs |
+| :-------------: | :-------------: |
+| [Downrightnow](http://downrightnow.com/) | http://feeds.downrightnow.com/downrightnow/ |
