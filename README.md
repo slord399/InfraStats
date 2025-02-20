@@ -19,8 +19,8 @@ Downdetector be not enough for those task so I collect list of major core networ
 | :-------------: | :-------------: |
 | [ISPreview](https://www.ispreview.co.uk/) | https://www.ispreview.co.uk/news/rss.xml |
 | [SubTel Forum](https://subtelforum.com/) | https://subtelforum.com/rss |
-| [Hurricane Electric](http://he.net/) | X to IFTTT:henet |
-| [Akamai](https://www.akamai.com/) and [Linode](https://www.linode.com/) | X to IFTTT:Akamai or linode |
+| [Hurricane Electric](http://he.net/) | X to IFTTT:[henet](https://x.com/henet) |
+| [Akamai](https://www.akamai.com/) and [Linode](https://www.linode.com/) | X to IFTTT:[Akamai](https://x.com/Akamai) or [linode](https://x.com/linode) |
 
 ### Data Centre and Hosting
 | Provider | Feed URLs |
@@ -49,7 +49,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [OCN (Direct)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/ocn-internet/maintenance/list/rss |
 | [au one net](https://www.au.com/) | https://www.notice.kddi.com/news/mainte/content/info/k/auonenet.xml |
 | [au Hikari](https://www.au.com/) | https://www.notice.kddi.com/news/mainte/content/info/k/hikarione.xml |
-| [JCOM](https://www.jcom.co.jp/) | X to IFTTT:jcom_support |
+| [JCOM](https://www.jcom.co.jp/) | X to IFTTT:[jcom_support](https://x.com/jcom_support) |
 
 
 ### SaaS
@@ -67,8 +67,8 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [Patreon](https://patreon.com/) | https://status.patreon.com/history.atom |
 | [Let's Encrypt](https://letsencrypt.org/) | https://letsencrypt.status.io/pages/55957a99e800baa4470002da/rss |
 | [Redis](https://redis.com/) | https://status.redis.com/history.atom |
-| [Steam](https://store.steampowered.com/) by [Valve](https://www.valvesoftware.com/) | X to IFTTT:SteamStatus |
-| [Misskey.io](https://misskey.io/) | X to IFTTT:misskey_dev |
+| [Steam](https://store.steampowered.com/) by [Valve](https://www.valvesoftware.com/) | X to IFTTT:[SteamStatus](https://x.com/SteamStatus) |
+| [Misskey.io](https://misskey.io/) | X to IFTTT:[misskey_dev](https://x.com/misskey_dev) |
 
 
 ### Other
