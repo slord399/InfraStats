@@ -67,7 +67,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [Patreon](https://patreon.com/) | https://status.patreon.com/history.atom |
 | [Let's Encrypt](https://letsencrypt.org/) | https://letsencrypt.status.io/pages/55957a99e800baa4470002da/rss |
 | [Redis](https://redis.com/) | https://status.redis.com/history.atom |
-| [Steam](https://store.steampowered.com/) by [Valve](https://www.valvesoftware.com/) | X to IFTTT:[SteamStatus](https://x.com/SteamStatus) |
+| [Steam](https://store.steampowered.com/) by [Valve](https://www.valvesoftware.com/) | X to IFTTT:[SteamStatus](https://x.com/SteamStatus) (3rd party provider) |
 | [Misskey.io](https://misskey.io/) | X to IFTTT:[misskey_dev](https://x.com/misskey_dev) |
 
 
