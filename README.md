@@ -34,6 +34,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [Akamai](https://www.akamai.com/) | https://www.akamaistatus.com/history.atom |
 | [Linode](https://www.linode.com/) | https://status.linode.com/history.atom |
 | [Digital Ocean](https://digitalocean.com/) | https://status.digitalocean.com/history.atom |
+| [Oracle](https://www.oracle.com/) | https://ocistatus.oraclecloud.com/api/v2/incident-summary.rss |
 | [Hetzner](https://www.hetzner.com/) | https://status.hetzner.com/en.atom |
 | [Sparked Host](https://sparkedhost.com/) | https://status.sparkedhost.com/history.rss |
 |  |  |
