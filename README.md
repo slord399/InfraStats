@@ -88,6 +88,8 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [Steam](https://store.steampowered.com/) by [Valve](https://www.valvesoftware.com/) | X to IFTTT:[SteamStatus](https://x.com/SteamStatus) (3rd party provider) |
 |  |  |
 | [Misskey.io](https://misskey.io/) | X to IFTTT:[misskey_dev](https://x.com/misskey_dev) |
+|  |  |
+| [Dyno](https://dyno.gg/) | From official discord |
 
 
 ### Other
