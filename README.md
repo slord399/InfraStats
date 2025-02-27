@@ -79,6 +79,8 @@ Downdetector be not enough for those task so I collect list of major core networ
 |  |  |
 | [discord](https://discord.com/) | https://discordstatus.com/history.atom |
 |  |  |
+| [Slack](https://slack.com/) | https://slack-status.com/feed/rss |
+| | |
 | [OpenAI](https://openai.com/) | https://status.openai.com/history.atom |
 |  |  |
 | [Patreon](https://patreon.com/) | https://status.patreon.com/history.atom |
