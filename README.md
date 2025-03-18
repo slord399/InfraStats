@@ -92,7 +92,10 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [Misskey.io](https://misskey.io/) | X to IFTTT:[misskey_dev](https://x.com/misskey_dev) |
 |  |  |
 | [Dyno](https://dyno.gg/) | From official discord |
-
+|  |  |
+| [VRChat](https://dyno.gg/) | X to IFTTT:[VRChat_Status](https://x.com/VRChat_Status) |
+|  |  |
+| [小説家になろう](https://syosetu.com/) | https://blog.syosetu.com/api/article/rss2/ |
 
 ### Other
 | Provider | Feed URLs |
