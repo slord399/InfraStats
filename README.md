@@ -21,6 +21,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [SubTel Forum](https://subtelforum.com/) | https://subtelforum.com/rss |
 | [Hurricane Electric](http://he.net/) | X to IFTTT:[henet](https://x.com/henet) |
 | [Akamai](https://www.akamai.com/) and [Linode](https://www.linode.com/) | X to IFTTT:[Akamai](https://x.com/Akamai) or [linode](https://x.com/linode) |
+| [Colt Technology Service](https://www.colt.net/) | https://www.colt.net/feed/ |
 
 ### Data Centre and Hosting
 | Provider | Feed URLs |
@@ -96,6 +97,12 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [VRChat](https://dyno.gg/) | X to IFTTT:[VRChat_Status](https://x.com/VRChat_Status) |
 |  |  |
 | [小説家になろう](https://syosetu.com/) | https://blog.syosetu.com/api/article/rss2/ |
+| | |
+| [Slack](https://slack.com/) | https://slack-status.com/feed/rss |
+| | |
+| [ニコニコ動画インフォ](https://www.nicovideo.jp/) | https://blog.nicovideo.jp/niconews/feed/topics/index.xml |
+| | |
+| [Ticket Bot v2](https://ticketsbot.cloud/) | https://ticketsv21.statuspage.io/history.atom |
 
 ### Other
 | Provider | Feed URLs |
