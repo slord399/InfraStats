@@ -30,7 +30,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [Google Cloud Platform](https://cloud.google.com/) | https://status.cloud.google.com/en/feed.atom |
 | [Microsoft Azure](https://azure.microsoft/) | https://rssfeed.azure.status.microsoft/en-gb/status/feed/ |
 |  |  |
-| [Equinix](https://equinix.com/) | https://status.equinix.com/history.atom |
+| [Equinix Metal](https://equinix.com/) | https://status.equinixmetal.com/history.atom |
 |  |  |
 | [Akamai](https://www.akamai.com/) | https://www.akamaistatus.com/history.atom |
 | [Linode](https://www.linode.com/) | https://status.linode.com/history.atom |
