@@ -17,7 +17,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 ### Media
 | Provider | Feed URLs |
 | :-------------: | :-------------: |
-| [ISPreview](https://www.ispreview.co.uk/) | https://www.ispreview.co.uk/news/rss.xml |
+| [ISPreview](https://www.ispreview.co.uk/) | https://www.ispreview.co.uk/index.php/feed/ |
 | [SubTel Forum](https://subtelforum.com/) | https://subtelforum.com/rss |
 | [Hurricane Electric](http://he.net/) | X to IFTTT:[henet](https://x.com/henet) |
 | [Akamai](https://www.akamai.com/) and [Linode](https://www.linode.com/) | X to IFTTT:[Akamai](https://x.com/Akamai) or [linode](https://x.com/linode) |
