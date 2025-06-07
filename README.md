@@ -104,6 +104,10 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [ニコニコ動画インフォ](https://www.nicovideo.jp/) | https://blog.nicovideo.jp/niconews/feed/topics/index.xml |
 | | |
 | [Ticket Bot v2](https://ticketsbot.cloud/) | https://ticketsv21.statuspage.io/history.atom |
+| | |
+| [Notion](https://www.notion.com/) | https://www.notion-status.com/history.rss |
+| | |
+| [LINE](https://www.line.me/) | https://api.line-status.info/history.rss |
 
 ### Other
 | Provider | Feed URLs |
