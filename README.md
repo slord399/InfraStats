@@ -38,6 +38,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [Oracle](https://www.oracle.com/) | https://ocistatus.oraclecloud.com/api/v2/incident-summary.rss |
 | [Hetzner](https://www.hetzner.com/) | https://status.hetzner.com/en.atom |
 | [Sparked Host](https://sparkedhost.com/) | https://status.sparkedhost.com/history.rss |
+| [GCORE](https://gcore.com/) | https://status.gcore.com/history.rss
 |  |  |
 | [GitHub](https://www.github.com/) | https://www.githubstatus.com/history.atom |
 | [Redis](https://redis.com/) | https://status.redis.com/history.atom |
@@ -52,6 +53,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [Global Secure Layer](https://globalsecurelayer.com/) | https://www.gslstatus.com/history.atom |
 | [Sucui Monitoring](https://sucuri.net/) | https://status.sucuri.net/history.atom |
 | [Core-Backbone](https://core-backbone.com/) | https://status.core-backbone.com/rss.php?mode=all |
+
 
 **Japan**
 | Provider | Feed URLs |
