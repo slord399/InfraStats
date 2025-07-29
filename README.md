@@ -60,7 +60,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | :-------------: | :-------------: |
 | [NTT Smart Data Platform (JP)](https://sdpf.ntt.com/) | https://status.sdpf.ntt.com/rss/ja/ |
 | [NTT Smart Data Platform (EN)](https://sdpf.ntt.com/) | https://status.sdpf.ntt.com/rss/en/ |
-| [NTT Communications (JP)](https://www.ntt.com) | https://support.ntt.com/vpn-besteffort/maintenance/list/rss |
+| [NTT docomo Business Biz (JP)](https://www.ntt.com) | https://support.ntt.com/vpn-besteffort/maintenance/list/rss |
 |  |  |
 | [OCN (Flet's)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/hikari-w-flets/maintenance/list/rss |
 | [OCN (Hikari)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/hikari/maintenance/list/rss |
