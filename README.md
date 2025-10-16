@@ -110,6 +110,8 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [Notion](https://www.notion.com/) | https://www.notion-status.com/history.rss |
 | | |
 | [LINE](https://www.line.me/) | https://api.line-status.info/history.rss |
+| | |
+| [Stripe](https://stripe.com/) | https://status.stripe.com/current/atom.xml |
 
 ### Other
 | Provider | Feed URLs |
