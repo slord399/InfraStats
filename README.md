@@ -53,6 +53,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [Global Secure Layer](https://globalsecurelayer.com/) | https://www.gslstatus.com/history.atom |
 | [Sucui Monitoring](https://sucuri.net/) | https://status.sucuri.net/history.atom |
 | [Core-Backbone](https://core-backbone.com/) | https://status.core-backbone.com/rss.php?mode=all |
+| [neoprotect](https://neoprotect.net/) | https://status.neoprotect.net/history.atom |
 
 
 **Japan**
