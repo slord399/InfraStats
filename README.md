@@ -43,6 +43,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 |  |  |
 | [GitHub](https://www.github.com/) | https://www.githubstatus.com/history.atom |
 | [Redis](https://redis.com/) | https://status.redis.com/history.atom |
+| [Photon](https://www.photonengine.com/) | X to IFTTT:[photon_status](https://x.com/photon_status) |
 
 
 ### Transit and ISP
