@@ -29,7 +29,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | :-------------: | :-------------: |
 | [Amazon Web Service](https://aws.amazon.com/) | https://status.aws.amazon.com/rss/all.rss |
 | [Google Cloud Platform](https://cloud.google.com/) | https://status.cloud.google.com/en/feed.atom |
-| [Microsoft Azure](https://azure.microsoft/) | https://rssfeed.azure.status.microsoft/en-gb/status/feed/ |
+| [Microsoft Azure](https://azure.microsoft/) | https://rssfeed.azure.status.microsoft/en-us/status/feed/ |
 |  |  |
 | [Equinix Metal](https://equinix.com/) | https://status.equinixmetal.com/history.atom |
 |  |  |
