@@ -42,7 +42,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [GCORE](https://gcore.com/) | https://status.gcore.com/history.rss
 |  |  |
 | [GitHub](https://www.github.com/) | https://www.githubstatus.com/history.atom |
-| [Redis](https://redis.com/) | https://status.redis.com/history.atom |
+| [Redis](https://redis.io/) | https://status.redis.io/data/rss.xml |
 | [Photon](https://www.photonengine.com/) | X to IFTTT:[photon_status](https://x.com/photon_status) |
 | [Mongodb Cloud](https://mongodb.com/) | https://status.mongodb.com/history.atom |
 | [OVHcloud](https://www.ovhcloud.com/) | https://network.status-ovhcloud.com/history.atom |
