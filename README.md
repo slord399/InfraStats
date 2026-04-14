@@ -22,6 +22,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [Cloudflare Blog](https://blog.cloudflare.com/) | https://blog.cloudflare.com/rss |
 | [Hurricane Electric](http://he.net/) | X to IFTTT:[henet](https://x.com/henet) |
 | [Akamai](https://www.akamai.com/) and [Linode](https://www.linode.com/) | X to IFTTT:[Akamai](https://x.com/Akamai) or [linode](https://x.com/linode) |
+| [COLT Network Service](https://www.colt.net/) | X to IFTTT:[Colt_Technology](https://x.com/Colt_Technology) |
 
 ### Data Centre and Hosting
 | Provider | Feed URLs |
