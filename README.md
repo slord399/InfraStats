@@ -93,6 +93,8 @@ Downdetector be not enough for those task so I collect list of major core networ
 | | |
 | [OpenAI](https://openai.com/) | https://status.openai.com/history.atom |
 |  |  |
+| [Claude](https://claude.com/) | https://status.claude.com/history.atom |
+|  |  |
 | [Patreon](https://patreon.com/) | https://status.patreon.com/history.atom |
 |  |  |
 | [Let's Encrypt](https://letsencrypt.org/) | https://letsencrypt.status.io/pages/55957a99e800baa4470002da/rss |
