@@ -54,7 +54,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | Provider | Feed URLs |
 | :-------------: | :-------------: |
 | [RIPE NCC](https://ripe.net/) | https://status.ripe.net/history.atom |
-| [Cloufflare](https://www.cloudflare.com/) | https://www.cloudflarestatus.com/feed |
+| [Cloufflare](https://www.cloudflare.com/) | https://www.cloudflarestatus.com/history.atom |
 | [Global Secure Layer](https://globalsecurelayer.com/) | https://www.gslstatus.com/history.atom |
 | [Sucui Monitoring](https://sucuri.net/) | https://status.sucuri.net/history.atom |
 | [Core-Backbone](https://core-backbone.com/) | https://status.core-backbone.com/rss.php?mode=all |
@@ -66,11 +66,11 @@ Downdetector be not enough for those task so I collect list of major core networ
 | :-------------: | :-------------: |
 | [NTT Smart Data Platform (JP)](https://sdpf.ntt.com/) | https://status.sdpf.ntt.com/rss/ja/ |
 | [NTT Smart Data Platform (EN)](https://sdpf.ntt.com/) | https://status.sdpf.ntt.com/rss/en/ |
-| [NTT docomo Business Biz (JP)](https://www.ntt.com) | https://support.ntt.com/vpn-besteffort/maintenance/list/rss |
+| [NTT docomo Business Biz (JP)](https://www.ntt.com) | https://support.ntt.com/vpn-besteffort/maintenance/list/rss/ |
 |  |  |
-| [OCN (Flet's)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/hikari-w-flets/maintenance/list/rss |
+| [OCN (Flet's)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/hikari-w-flets/maintenance/list/rss/ |
 | [OCN (Hikari)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/hikari/maintenance/list/rss |
-| [OCN (Direct)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/ocn-internet/maintenance/list/rss |
+| [OCN (Direct)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/ocn-internet/maintenance/list/rss/ |
 |  |  |
 | [au one net](https://www.au.com/) | https://www.notice.kddi.com/news/mainte/content/info/k/auonenet.xml |
 | [au Hikari](https://www.au.com/) | https://www.notice.kddi.com/news/mainte/content/info/k/hikarione.xml |
@@ -81,7 +81,8 @@ Downdetector be not enough for those task so I collect list of major core networ
 ### SaaS
 | Provider | Feed URLs |
 | :-------------: | :-------------: |
-| [IFTTT](https://ifttt.com/) | https://status.ifttt.com/feed |
+| [IFTTT](https://ifttt.com/) | https://status.ifttt.com/history.atom |
+|  |  |
 | [ReadMe](https://readme.com/) | https://www.readmestatus.com/history.atom |
 |  |  |
 | [Unity Gaming Service](https://unity.com/) | https://status.unity.com/history.atom |
@@ -119,7 +120,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | | |
 | [LINE](https://www.line.me/) | https://api.line-status.info/history.rss |
 | | |
-| [Stripe](https://stripe.com/) | https://status.stripe.com/current/atom.xml |
+| [Stripe](https://stripe.com/) | https://www.stripestatus.com/history.atom |
 
 ### Other
 | Provider | Feed URLs |
