@@ -69,7 +69,7 @@ Downdetector be not enough for those task so I collect list of major core networ
 | [NTT docomo Business Biz (JP)](https://www.ntt.com) | https://support.ntt.com/vpn-besteffort/maintenance/list/rss/ |
 |  |  |
 | [OCN (Flet's)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/hikari-w-flets/maintenance/list/rss/ |
-| [OCN (Hikari)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/hikari/maintenance/list/rss |
+| [OCN (Hikari)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/hikari/maintenance/list/rss/ |
 | [OCN (Direct)](https://ocn.ne.jp/) | https://support.ocn.ne.jp/ocn-internet/maintenance/list/rss/ |
 |  |  |
 | [au one net](https://www.au.com/) | https://www.notice.kddi.com/news/mainte/content/info/k/auonenet.xml |
