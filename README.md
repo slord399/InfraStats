@@ -110,8 +110,6 @@ Downdetector be not enough for those task so I collect list of major core networ
 |  |  |
 | [小説家になろう](https://syosetu.com/) | https://blog.syosetu.com/api/article/rss2/ |
 | | |
-| [Slack](https://slack.com/) | https://slack-status.com/feed/rss |
-| | |
 | [ニコニコ動画インフォ](https://www.nicovideo.jp/) | https://blog.nicovideo.jp/niconews/feed/topics/index.xml |
 | | |
 | [Ticket Bot v2](https://ticketsbot.cloud/) | https://ticketsv21.statuspage.io/history.atom |
